@@ -1,7 +1,6 @@
 ### Hi lol
 ![Nex's GitHub shitty stats](https://github-readme-stats.vercel.app/api?username=NexIsDumb&show_icons=true&theme=outrun&title_color=952deb&count_private=true&include_all_commits=true)<br />
 Please don't ask for certain source codes if I said that I won't share them publicly<br />
-(This upper card shows how many private repositories there are too in case you're wondering)
 
 ### I kinda use these
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=NexIsDumb)
