@@ -20,5 +20,5 @@ I do have a shitty [youtube channel](https://www.youtube.com/channel/UCGYFBvlsfZ
 I upload some stuff there, like cool mods or maybe trailers and such about the mods I'm working in too<br />
 Won't give here discord but you might find me in some cool communities (**cough** Ardolf's one **COUGH COUGH**)<br />
 <br />
-I admire a lot of coders, for example [ShadowMario](https://github.com/ShadowMario), [Shadowfi1385](https://github.com/Shadowfi1385), [MemeHoovy](https://github.com/MemeHoovy) and more<br />
+I admire a lot of coders, for example [ShadowMario](https://github.com/ShadowMario), [Shadowfi1385](https://github.com/Shadowfi1385), [MemeHoovy](https://github.com/MemeHoovy), [Stilic](https://github.com/Stilic) and more<br />
 If ya want me to help with some mods just ask me cause, why not lol
