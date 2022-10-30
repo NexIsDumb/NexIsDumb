@@ -24,5 +24,5 @@ I admire a lot of coders, for example [ShadowMario](https://github.com/ShadowMar
 If ya want me to help with some mods just ask me cause, why not lol
 
 
-<br /><br /><sup><sub>Help<sup><sub>
+<br /><sup><sub>Help<sup>
 <br />![you're mad.](https://cdn.discordapp.com/attachments/862283819447746590/1036053349549744148/unknown.png)
