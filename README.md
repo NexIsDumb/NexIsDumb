@@ -22,3 +22,7 @@ Won't give here discord but you might find me in some cool communities (**cough*
 <br />
 I admire a lot of coders, for example [ShadowMario](https://github.com/ShadowMario), [Shadowfi1385](https://github.com/Shadowfi1385), [MemeHoovy](https://github.com/MemeHoovy), [Stilic](https://github.com/Stilic) and more<br />
 If ya want me to help with some mods just ask me cause, why not lol
+
+
+<br /><br /><sup><sub>Help<sup><sub>
+<br />![you're mad.](https://cdn.discordapp.com/attachments/862283819447746590/1036053349549744148/unknown.png)
