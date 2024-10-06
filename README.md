@@ -1,27 +1,20 @@
-### Hi lol
-This is just a shitty AboutMe, here's an old pic of my sona Fushi at least:<br />
-<img src="https://user-images.githubusercontent.com/87421482/230425746-e1834373-9f71-4356-b382-257d71042d16.jpg" width=60% height=60%>
-<br /><br />
+# Hey! Welcome to my Readme!
+Just a random italian dumbass furry who likes coding and who started coding for passion and passion only thanks to school. ;3<br/>
+I'm ***very*** stubborn besides also being Bi and taken. <3
 
-### Yes I code
-![Nex's GitHub shitty stats](https://github-readme-stats-nexisdumb.vercel.app/api?username=NexIsDumb&show_icons=true&theme=outrun&title_color=952deb&count_private=true&include_all_commits=true)<br />
-Please don't ask for certain source codes if I said that I won't share them publicly<br />
+## Interests
+Obliviously coding but also many other aspects of Informatics like Robotics and much more.<br/>
+Placing aside professionalism, I **LOVE** videogames, I mainly started coding because of those, specially Horror games since it's my favorite genre.
 
-### I kinda use these
-![Top Languages Card](https://github-readme-stats-nexisdumb.vercel.app/api/top-langs/?username=NexIsDumb)
+## Contacts
+Here's my [linktree](https://linktr.ee/just_nex).<br/>
+You can also find me in many communities but mainly the [Codename Engine](https://github.com/FNF-CNE-Devs) one that I'm also one of the main developers and a moderator of.
 
-Fnf is overrated<br />
-Fuck dramas, I like chilling<br />
-I love committing gay crimes even tho I'm bi<br />
-
-<sup><sub>Look under your bed :))</sub></sup>
-
-<br />I also have a [MyAnimeList](https://myanimelist.net/profile/Nex_isDumb)<br />
-Shirou and Legoshi, my beloved. Never joke about it.<br />
-Believe it or not I'm taken too LOL<br />
-<br />
-Here's my [linktree](https://linktr.ee/just_nex)<br />
-I do have a shitty [youtube channel](https://www.youtube.com/channel/UCGYFBvlsfZIFQoFAOIF3IsQ) too:<br />
-Won't give here discord but you might find me in some cool communities<br />
-<br />
-If ya want me to help with some mods just ask me cause, why not lol
+## Stats
+I can use a bunch of languages (even if some aren't displayed in here) and willing to learn more, afterall the more the better!<br/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=NexIsDumb&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="149" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NexIsDumb&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="149" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NexIsDumb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="149" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=NexIsDumb&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
