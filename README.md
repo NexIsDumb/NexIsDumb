@@ -13,8 +13,8 @@ You can also find me in many communities but mainly the [Codename Engine](https:
 ## Stats
 I can use a bunch of languages (even if some aren't displayed in here) and willing to learn more, afterall the more the better!<br/>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NexIsDumb&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="149" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=NexIsDumb&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="149" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NexIsDumb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="149" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=NexIsDumb&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NexIsDumb&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NexIsDumb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=NexIsDumb&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
