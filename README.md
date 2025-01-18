@@ -8,7 +8,7 @@ Placing aside professionalism, I **LOVE** videogames, I mainly started coding be
 
 ## Contacts
 Here's my [linktree](https://linktr.ee/just_nex).<br/>
-You can also find me in many communities but mainly the [Codename Engine](https://github.com/FNF-CNE-Devs) one that I'm also one of the main developers and a moderator of.
+You can also find me in many communities but mainly the [Codename Engine](https://github.com/CodenameCrew) one that I'm also one of the main developers and a moderator of.
 
 ## Stats
 I can use a bunch of languages (even if some aren't displayed in here) and willing to learn more, afterall the more the better!<br/>
