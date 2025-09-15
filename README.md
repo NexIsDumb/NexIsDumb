@@ -7,7 +7,7 @@ Obliviously coding but also many other aspects of Informatics like Robotics and 
 Placing aside professionalism, I **LOVE** videogames, I mainly started coding because of those, specially Horror games since it's my favorite genre.
 
 ## Contacts
-Here's my [linktree](https://linktr.ee/just_nex).<br/>
+Here's my [website]([https://linktr.ee/just_nex](https://nexisdumb.github.io/)).<br/>
 You can also find me in many communities but mainly the [Codename Engine](https://github.com/CodenameCrew) one that I'm also one of the main developers and a moderator of.
 
 ## Stats
